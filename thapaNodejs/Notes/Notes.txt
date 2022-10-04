@@ -1,0 +1,21 @@
+
+
+Os module:The os module provides operating system-related utiltiy methods and properties, It can be accessed using 
+const os = require('os);
+path modules: The path modules provides utlities for working with the file and directory paths, It can be accessed using:
+const path = require('path');
+
+/////
+1-Npm is package manger for the javascript programming languages.
+2-It is the default pacakage manager  for the javascript runtime environment Node.js.
+
+What is JSON?
+JavaScript Object Notation, or JSON, is a lightweight data format that has become the defacto standard for the web.
+ JSON can be represented as either a list of values, e.g. an Array, or a hash of properties and values, e.g. an Object.
+
+Encoding and Decoding in JSON in NODEJS
+JavaScript provides 2 methods for encoding data structures to JSON and encoding JSON back to JavaScript objects and arrays.
+ They are both available on the JSON object that is available in the global scope.
+
+JSON.stringify takes a JavaScript object or array and returns a serialized string in the JSON format.
+JSON.parse takes a JSON string and decodes it to a JavaScript data structure.
